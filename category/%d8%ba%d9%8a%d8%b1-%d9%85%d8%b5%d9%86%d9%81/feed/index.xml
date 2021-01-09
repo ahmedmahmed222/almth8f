@@ -12,8 +12,8 @@
 	<atom:link href="https://ahmedmahmed222.github.io/almth8f/category/%D8%BA%D9%8A%D8%B1-%D9%85%D8%B5%D9%86%D9%81/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ahmedmahmed222.github.io/almth8f</link>
 	<description>موقع ووردبريس عربي آخر</description>
-	<lastBuildDate>Fri, 08 Jan 2021 20:55:15 +0000</lastBuildDate>
-	<language>ar</language>
+	<lastBuildDate>Sat, 09 Jan 2021 00:54:17 +0000</lastBuildDate>
+	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -39,8 +39,8 @@
 			</item>
 		<item>
 		<title>أهلاً بالعالم !</title>
-		<link>https://ahmedmahmed222.github.io/almth8f/1/fsdfsdf/</link>
-					<comments>https://ahmedmahmed222.github.io/almth8f/1/fsdfsdf/#comments</comments>
+		<link>https://ahmedmahmed222.github.io/almth8f/1/%d8%a3%d9%87%d9%84%d8%a7%d9%8b-%d8%a8%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85/</link>
+					<comments>https://ahmedmahmed222.github.io/almth8f/1/%d8%a3%d9%87%d9%84%d8%a7%d9%8b-%d8%a8%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 08 Jan 2021 19:54:31 +0000</pubDate>
@@ -52,7 +52,7 @@
 <p>مرحباً بك في ووردبريس. هذه مقالتك الأولى. حررّها أو احذفها، ثم ابدأ النشر!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://ahmedmahmed222.github.io/almth8f/1/fsdfsdf/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ahmedmahmed222.github.io/almth8f/1/%d8%a3%d9%87%d9%84%d8%a7%d9%8b-%d8%a8%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
